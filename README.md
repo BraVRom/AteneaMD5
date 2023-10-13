@@ -14,11 +14,11 @@ Es una herramienta útil para aquellos que necesitan calcular rápidamente el ha
 2. Reemplaza `texto` con el texto que deseas convertir a MD5.
 4. El resultado se copiará automáticamente al portapapeles y estará listo para poner en la web.
 
+## Requisitos
+Este script fue diseñado para sistemas Linux.
+- **xclip**: Una utilidad de línea de comandos para copiar datos al portapapeles en sistemas Linux. Si `xclip` no está instalado en tu sistema, el script intentará instalarlo automáticamente.
+No hace falta ejecutar con derechos de superusuario.
+
 ## Autor
 Este script fue creado por BraVRom y subido a GitHub.
 - Si compartes o editas el script, agradecería mención al autor original. ❤️👌
-
-## Requisitos
-Este script fue diseñado para sistemas Linux.
-Asegúrate de que `xclip` esté instalado en tu sistema antes de usar el script. Si no está instalado, el script intentará instalarlo automáticamente. 
-No hace falta ejecutar con derechos de superusuario.
